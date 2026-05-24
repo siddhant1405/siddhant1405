@@ -6,6 +6,6 @@
 
 # Connect with me at
 
-- GitHub: github.com/siddhant1405
-- LinkedIn: linkedin.com/in/siddhant1405
+- GitHub: https://github.com/siddhant1405/siddhant1405/
+- LinkedIn: https://www.linkedin.com/in/siddhant1405/
 - Email: guptasiddhant1405@gmail.com
